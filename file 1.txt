@@ -189,6 +189,9 @@ January.</p>
 released, and your contact information will never be shared with third
 parties. <a href='/secure/mailing-list/unsubscribe'>Click here</a> to
 unsubscribe.</p>
+<p class='fine-print'>You&rsq uo;ll only receive emails when new tutorials are
+ <a href='/secure/mailing-list/unsubscribe'>Click here</a> to
+unsubscribe.</p>
 </div>
 <div class='divider'></div>
 <footer id='footer' class='fine-print'>
